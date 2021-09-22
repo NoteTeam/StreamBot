@@ -1,15 +1,15 @@
 {
-    "name": "Veez Video Stream Bot",
+    "name": "Video Stream Bot",
     "description": "telegram bot for streaming video trought the telegram group video chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/103a5208bb1698a8b33de.png",
+    "logo": "https://telegra.ph/file/332dd88cdf7e0f59f25a0.png",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream"
     ],
-    "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
-    "success_url": "https://t.me/dlwrml",
+    "website": "https://t.me/mutiaraindh",
+    "repository": "https://github.com/NoteTeam/StreamBot",
+    "success_url": "https://t.me/psycholy9",
     "env": {
         "API_ID": {
             "description": "your APP_ID from my.telegram.org",
